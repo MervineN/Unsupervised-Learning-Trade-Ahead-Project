@@ -1,5 +1,24 @@
-# Unsupervised-Learning-Trade-Ahead-Project
+# Unsupervised-Learning
+![Slide1](https://user-images.githubusercontent.com/120951914/210369267-d970645a-6a38-4d2a-9804-f3ce64abd6ac.jpg)
  Cluster Profiling,EDA, Kmeans Clustering, Hierarchical Clustering, Cluster Profiling
 ## Context: The stock market has consistently proven to be a good place to invest in and save for the future. There are a lot of compelling reasons to invest in stocks. It can help in fighting inflation, create wealth, and also provides some tax benefits. Good steady returns on investments over a long period of time can also grow a lot more than seems possible. Also, thanks to the power of compound interest, the earlier one starts investing, the larger the corpus one can have for retirement. Overall, investing in stocks can help meet life's financial aspirations.It is important to maintain a diversified portfolio when investing in stocks in order to maximise earnings under any market condition. Having a diversified portfolio tends to yield higher returns and face lower risk by tempering potential losses when the market is down. It is often easy to get lost in a sea of financial metrics to analyze while determining the worth of a stock, and doing the same for a multitude of stocks to identify the right picks for an individual can be a tedious task. By doing a cluster analysis, one can identify stocks that exhibit similar characteristics and ones which exhibit minimum correlation. This will help investors better analyze stocks across different market segments and help protect against risks that could make the portfolio vulnerable to losses.
-
-## Objective : Trade&Ahead is a financial consultancy firm who provide their customers with personalized investment strategies. They have hired you as a Data Scientist and provided you with data comprising stock price and some financial indicators for a few companies listed under the New York Stock Exchange.**They have assigned you the tasks of analyzing the data, grouping the stocks based on the attributes provided, and sharing insights about the characteristics of each group.**
+![Slide2](https://user-images.githubusercontent.com/120951914/210369416-d74c79f2-738b-491d-8f15-74314f51aafb.jpg)
+![Slide3](https://user-images.githubusercontent.com/120951914/210369502-b73b775e-c786-4e66-b367-b287838f9009.jpg)
+![Slide4](https://user-images.githubusercontent.com/120951914/210369522-200e463c-63bb-4c02-b4b6-b01b63ee4f67.jpg)
+![Slide5](https://user-images.githubusercontent.com/120951914/210369536-b59714d1-4aa4-4c69-9752-64f3807edb38.jpg)
+![Slide6](https://user-images.githubusercontent.com/120951914/210369548-21a6fb61-0273-4039-9f8d-114d65ca152a.jpg)
+![Slide7](https://user-images.githubusercontent.com/120951914/210369648-0eef7f01-b431-4c2d-9e7e-5a14f33259a6.jpg)
+![Slide8](https://user-images.githubusercontent.com/120951914/210369666-615d8c61-263f-4652-8bad-cfba064b20b4.jpg)
+![Slide9](https://user-images.githubusercontent.com/120951914/210369705-a990ce25-e787-4ccc-b9fd-04e20c43cdb1.jpg)
+![Slide10](https://user-images.githubusercontent.com/120951914/210369737-a35c87ed-1154-46b8-bd98-821eb64b230a.jpg)
+![Slide11](https://user-images.githubusercontent.com/120951914/210369759-8a4e627b-89cf-4251-a085-4d21ec94ed7e.jpg)
+![Slide12](https://user-images.githubusercontent.com/120951914/210369812-734d0707-c387-46c3-8921-f492f7094876.jpg)
+![Slide13](https://user-images.githubusercontent.com/120951914/210369833-bbf163dd-bc93-4d29-bd74-7ce66fa478c3.jpg)
+![Slide14](https://user-images.githubusercontent.com/120951914/210369864-6cb83682-fb3d-4022-9c53-47c4a5874624.jpg)
+![Slide15](https://user-images.githubusercontent.com/120951914/210369880-d7deb966-638f-491f-af76-5ef33b497c10.jpg)
+![Slide16](https://user-images.githubusercontent.com/120951914/210369919-d0f0b0ec-0b0b-4efa-abc7-2410460efea8.jpg)
+![Slide17](https://user-images.githubusercontent.com/120951914/210369933-e815e8a1-915f-499c-8ddf-66ce979b5e06.jpg)
+![Slide18](https://user-images.githubusercontent.com/120951914/210369944-c5b37304-d101-4d1c-a825-dbf766f581f1.jpg)
+![Slide19](https://user-images.githubusercontent.com/120951914/210369977-d2a0b83c-e459-4080-b2ca-6a0987e6c7fe.jpg)
+![Slide20](https://user-images.githubusercontent.com/120951914/210370008-60f58498-9452-4bf2-b8c0-6888b4943c55.jpg)
+![Slide21](https://user-images.githubusercontent.com/120951914/210370029-4a20dbf2-5c2d-4d1c-8f29-1ec44b4528bf.jpg)
